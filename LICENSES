@@ -69,7 +69,7 @@ and limitations under the License.
  * Released under the MIT License.
  */
 
-/*! Buefy v0.7.6 | MIT License | github.com/buefy/buefy */
+/*! Buefy v0.7.7 | MIT License | github.com/buefy/buefy */
 
 /**
  * @license long.js (c) 2013 Daniel Wirtz <dcode@dcode.io>
@@ -84,25 +84,25 @@ object-assign
 */
 
 /*!
-    * tiptap v1.20.0
+    * tiptap-extensions v1.22.3
     * (c) 2019 Scrumpy UG (limited liability)
     * @license MIT
     */
 
 /*!
-    * tiptap-commands v1.10.4
+    * tiptap v1.22.3
     * (c) 2019 Scrumpy UG (limited liability)
     * @license MIT
     */
 
 /*!
-    * tiptap-utils v1.5.2
+    * tiptap-commands v1.10.7
     * (c) 2019 Scrumpy UG (limited liability)
     * @license MIT
     */
 
 /*!
-    * tiptap-extensions v1.20.0
+    * tiptap-utils v1.5.5
     * (c) 2019 Scrumpy UG (limited liability)
     * @license MIT
     */
